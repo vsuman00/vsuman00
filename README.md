@@ -1,3 +1,4 @@
+![logo](https://github.com/vsuman00/vsuman00/blob/main/Banner.png)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&pause=1000&color=23BAFF&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Hello+%F0%9F%91%8B%2C+I'm+Vaibhav+Suman;Passionate%F0%9F%91%BBSoftware+Engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+++++++++%26+AI%2FML+%F0%9F%A4%96+Technology." alt="Typing SVG" /></a>
 
