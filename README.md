@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Web Development (Frontend)**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1Q6w06dXlM-kJFVgvzllazvbaHaq97kLT/view?usp=share_link">Resume</a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1NPDukqliCqo-n6_eTWrUUliKlHovEk-P/view?usp=sharing">Resume</a>
 
-- ⚡ Fun fact **I am Movie👻👻and Music🎧🎧🎧Enthusiasm**
+- ⚡ Fun fact **I'm enthusiastic about Movies 👻👻 and Music 🎧🎧🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
