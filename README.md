@@ -1,17 +1,21 @@
 ![logo](https://github.com/vsuman00/vsuman00/blob/main/Banner.png)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&pause=600&color=23BAFF&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Hello!%F0%9F%91%8B+I'm+Vaibhav+Suman.;Passionate+%F0%9F%91%BB+Software+Engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+++++++++%26+AI%2FML+%F0%9F%A4%96+Tech+Enthusiast." alt="Typing SVG" /></a>
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsuman00" alt="vsuman00" /></a> </p>
+                                                                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsuman00&label=Profile%20views&color=0e75b6&style=flat" alt="vsuman00" /> </p>
 <img align="right" alt ="coding" width ="400" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
 
 <p align="left"> <a href="https://twitter.com/vaibhavsuman00" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavsuman00?logo=twitter&style=for-the-badge" alt="vaibhavsuman00" /></a> </p>
 
-- 💬 Ask me about **Web Development (Frontend)**
+- 🌱 I’m currently learning **Web Backend (Node.js) & Gen AI (Agentic AI)**
+  
+- 👨‍💻 All of my projects are available at [Portfolio](https://sumanvaibhav.vercel.app/)
+  
+- 💬 Ask me about **Next.js, React.js, Machine Learning**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1NPDukqliCqo-n6_eTWrUUliKlHovEk-P/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1HlPnkwQCQsN7aMCGlK6Uxfa9hvEJVHaJ/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I'm enthusiastic about Movies 👻👻 and Music 🎧🎧🎧**
 
