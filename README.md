@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Backend (Node.js) & Gen AI (Agentic AI)**
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://sumanvaibhav.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vaibhavsuman.vercel.app/)
   
 - 💬 Ask me about **Next.js, React.js, Machine Learning**
 
