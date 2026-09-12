@@ -1,15 +1,8 @@
-<div align="center">
-  <img src="./assets/ascii-portrait.png" alt="ASCII portrait of Vaibhav Suman" width="330" />
-
-<pre>
-┌─────────────────────────────────────────────────────────────┐
-│  VAIBHAV SUMAN // AI ENGINEER                                │
-│  Building applied AI systems and useful full-stack products. │
-└─────────────────────────────────────────────────────────────┘
-</pre>
-
-<a href="https://vaibhavsuman.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/vaibhav-suman/">LinkedIn</a> · <a href="https://twitter.com/VaibhavSuman00">X</a> · <a href="https://medium.com/@vaibhavsuman00">Medium</a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-card-light.svg" />
+  <img src="./assets/profile-card-dark.svg" alt="Neofetch-style ASCII GitHub profile card for Vaibhav Suman" width="100%" />
+</picture>
 
 ## Now
 
