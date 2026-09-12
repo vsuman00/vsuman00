@@ -19,12 +19,9 @@
 
 ## Selected work
 
-<a href="https://github.com/vsuman00/Heart_Disease_Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vsuman00&repo=Heart_Disease_Prediction&theme=transparent&hide_border=true" alt="Heart Disease Prediction repository" />
-</a>
-<a href="https://github.com/vsuman00/CV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vsuman00&repo=CV&theme=transparent&hide_border=true" alt="CV repository" />
-</a>
+- [AI Resume Checker](https://github.com/vsuman00/ai_resume_checker)
+- [SummarIQ](https://github.com/vsuman00/SummarIQ)
+- [Retail Competitor Scout](https://github.com/vsuman00/Retail-Competitor-Scout)
 
 ## Contribution stream
 
