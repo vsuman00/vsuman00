@@ -1,0 +1,44 @@
+name: Refresh profile card
+
+on:
+  schedule:
+    - cron: "37 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-card
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Refresh public and private profile statistics
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          PROFILE_USERNAME: vsuman00
+        run: |
+          if [ -z "$PROFILE_STATS_TOKEN" ]; then
+            echo "::notice::Add the PROFILE_STATS_TOKEN repository secret to enable profile-card refreshes."
+            exit 0
+          fi
+          node scripts/update-profile-card.mjs
+
+      - name: Commit changed cards
+        run: |
+          git add assets/profile-card-dark.svg assets/profile-card-light.svg
+          if git diff --cached --quiet; then
+            echo "Profile cards are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile card stats"
+          git push
